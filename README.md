@@ -9,6 +9,7 @@ Check out live demo : [Valorant Clone Live Demo](https://valorant-clone-with-rea
 
 ## Technologies used
 
+
 - React
 - React Router
 - React Query
