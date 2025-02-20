@@ -12,6 +12,7 @@ async function fetchAgent(id) {
   return data;
 }
 
+
 function SingleAgentPage() {
   const { id } = useParams();
 

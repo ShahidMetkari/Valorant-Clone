@@ -9,3 +9,4 @@ function FooterIcon({ children, link }) {
 }
 
 export default FooterIcon;
+

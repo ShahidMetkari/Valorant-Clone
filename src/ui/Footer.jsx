@@ -11,6 +11,7 @@ import ValorantIcon from "./ValorantIcon";
   bg-neutral-800
 */
 
+
 function Footer() {
   return (
     <footer className="mx-auto text-center">

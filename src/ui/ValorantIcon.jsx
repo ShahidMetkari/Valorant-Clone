@@ -14,6 +14,7 @@ function ValorantIcon({ fill = "", hoverFill = "", size = "" }) {
       ></path>
     </svg>
   );
+  
 }
 
 export default ValorantIcon;

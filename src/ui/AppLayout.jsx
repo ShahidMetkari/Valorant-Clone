@@ -12,6 +12,7 @@ function AppLayout() {
   function handleMenu() {
     setIsMenuOpen((is) => !is);
   }
+  
   function handleBoth() {
     setIsOverlayOpen(false);
     setIsMenuOpen(false);

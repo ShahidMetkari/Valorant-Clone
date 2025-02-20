@@ -9,6 +9,7 @@ function MapList({ maps }) {
     setCurrentMap(map);
     setCurrentIndex(idx);
   }
+  
 
   function handleDecreaseButton() {
     if (currentIndex > 0) {

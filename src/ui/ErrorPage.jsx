@@ -3,6 +3,7 @@ import { useNavigate } from "react-router-dom";
 function ErrorPage() {
   const navigate = useNavigate();
   return (
+    
     <>
       <div className="flex items-center justify-center h-screen uppercase bg-center bg-valo-white bg-not-found bg-ui-rich-black text-sora font-sora ">
         <div className="flex flex-col items-center justify-center group text-ui-red">

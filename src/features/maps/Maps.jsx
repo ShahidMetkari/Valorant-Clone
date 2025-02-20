@@ -10,6 +10,7 @@ async function fetchMaps() {
   return data;
 }
 
+
 function Maps() {
   const { data, isLoading, isError, error } = useQuery({
     queryKey: ["maps"],

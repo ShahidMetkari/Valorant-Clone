@@ -10,6 +10,7 @@ async function fetchAgents() {
   return data;
 }
 
+
 // to filter by category
 function trimString(str) {
   const [, category] = str.split("::");

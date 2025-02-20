@@ -12,6 +12,7 @@ function Signin() {
     navigate("/", { replace: true });
   }
 
+  
   return (
     <div className="flex flex-col items-center justify-center h-screen bg-center bg-cover bg-login-1-dark lg:bg-login-1">
       <div className="mt-10">

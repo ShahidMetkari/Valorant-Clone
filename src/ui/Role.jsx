@@ -9,6 +9,7 @@ function Role({ imagePath, role, description }) {
       transition={{
         duration: 0.85,
 
+        
         ease: "easeOut",
       }}
       className="flex flex-col items-center max-w-xs gap-4 "

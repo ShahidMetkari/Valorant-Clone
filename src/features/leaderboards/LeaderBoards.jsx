@@ -3,3 +3,4 @@ function LeaderBoards() {
 }
 
 export default LeaderBoards;
+

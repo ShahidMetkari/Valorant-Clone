@@ -19,6 +19,7 @@ import Loader from "./ui/Loader";
 
 const queryClient = new QueryClient();
 
+
 const appRouter = createBrowserRouter([
   {
     element: <AppLayout />,

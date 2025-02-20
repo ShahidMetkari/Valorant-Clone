@@ -2,6 +2,7 @@ import { NavLink } from "react-router-dom";
 import ValorantSvg from "./ValorantSvg";
 import { motion } from "framer-motion";
 
+
 function DownloadGame() {
   return (
     <div className="relative h-screen overflow-hidden bg-center bg-no-repeat md:bg-cover bg-valo-download-1">

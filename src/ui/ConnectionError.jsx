@@ -4,6 +4,7 @@ function ConnectionError({ error }) {
   const navigate = useNavigate();
   console.log(error.message);
 
+  
   return (
     <>
       <div className="bg-valo">

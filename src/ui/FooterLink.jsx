@@ -14,6 +14,7 @@ function FooterLink({ children, to, type }) {
       <Link to={to}>{children}</Link>
     </div>
   );
+  
 }
 
 export default FooterLink;

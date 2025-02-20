@@ -9,6 +9,7 @@ function Loader() {
             <p className="my-2 text-3xl tracking-wider uppercase md:text-4xl text-ui-red font-montserrat">
               Loading
             </p>
+            
           </div>
           <div className="absolute bg-gradient-to-t md:px-32 px-28 bottom-[21%]">
             {<PropagateLoader /> ? (
